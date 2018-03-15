@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|物业资料/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Java/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="E:/java资料/java/jar包/jxl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
